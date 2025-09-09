@@ -1,5 +1,0 @@
-ROC 
-Accuracy
-precision table
-
-dataset name | model name (2) | accuracy
